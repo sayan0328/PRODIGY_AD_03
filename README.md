@@ -3,4 +3,4 @@
 
  You can download the apk from this repository and install the app to try on your own device.
 
-![Screenshot](images/stopwatch.jpg)
+![Screenshot](images/stopwatch-app.jpg)
